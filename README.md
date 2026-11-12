@@ -12,17 +12,13 @@ An end-to-end AI engineering project focused on designing and developing intelli
 
 To build a practical enterprise AI platform that combines Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI to solve real-world business challenges.
 
-##  📚 Project Documentation
+### 📚 Project Documentation
 
 | Document | Description |
-
 |---|---|
-
-| [Project Mission](PROJECT_[MISSION.md](http://MISSION.md)) | Project vision, purpose, and objectives |
-
-| [Project Requirements](PROJECT_[REQUIREMENTS.md](http://REQUIREMENTS.md)) | Functional and non-functional requirements |
-
-| [System Architecture](SYSTEM_[ARCHITECTURE.md](http://ARCHITECTURE.md)) | High-level system design and architecture |
+| [Project Mission](PROJECT_MISSION.md) | Project vision, purpose, and objectives |
+| [Project Requirements](PROJECT_REQUIREMENTS.md) | Functional and non-functional requirements |
+| [System Architecture](SYSTEM_ARCHITECTURE.md) | High-level system design and architecture |
 
 ## 🧠 Core Engineering Areas
 
